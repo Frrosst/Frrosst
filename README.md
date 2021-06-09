@@ -48,10 +48,11 @@ Under construction
 <br>
 
 <p align='left'>
-  <img alt="VScode" src='https://user-images.githubusercontent.com/69601054/115113861-e499a380-9f7b-11eb-8f4b-0e7232c19867.png' width='80px' height='80px'> 
+  <img alt="VScode" src='https://user-images.githubusercontent.com/69601054/121349508-2100d480-c919-11eb-89f6-4a980bf80c62.png' width='70px' height='70px'> 
   <img alt="Composer" src='https://user-images.githubusercontent.com/69601054/115420070-60008c80-a1ea-11eb-8430-2f57d6ded15b.png' width='80px' height='80px'>
   <img alt="GNU/Linux" src='https://user-images.githubusercontent.com/69601054/115152815-459ba700-a062-11eb-8278-5ee1c734453e.png' width='70px' height='80px'>
   <img alt='ParrotOs' src='https://user-images.githubusercontent.com/69601054/115420926-12385400-a1eb-11eb-8b84-5d526544678d.png' width='80px' height='80px'>  
+  <img alt='GitHub' src='https://user-images.githubusercontent.com/69601054/121349351-ebf48200-c918-11eb-8ed7-55e422262c8f.png' width='80px' height='80px'>
   
 </p>
 
