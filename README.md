@@ -27,7 +27,7 @@ Under construction
 ## Who am i?
 
 
-<p>a 15 yo developer and a passionate by cyber security </p>
+<p>a developer and a passionate by cyber security </p>
 <p>Im currently learning <b>networking</b> and <b>web pentesing</b></p>
 <br>
 
