@@ -4,7 +4,7 @@ Under construction
 
 
 
-### Hi there 👋
+### Hi 👋
 
 
 
