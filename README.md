@@ -31,7 +31,7 @@ Under construction
 <p>Im currently learning <b>networking</b> and <b>web pentesing</b></p>
 <br>
 
-## 💻 Languages that i use
+## 💻 Languages
 
 <p>
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,7 +46,7 @@ Under construction
 </p>
 
 
-## Tools that i use
+## Tools
 <br>
 
 <p align='left'>
