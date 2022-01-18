@@ -28,7 +28,7 @@ Under construction
 
 
 <p>a developer and a passionate by cyber security </p>
-<p>Im currently learning <b>networking</b> and <b>web pentesing</b></p>
+<p>Im currently learning <b>Networking</b>, <b>Web Pentesing</b> and <b>Blockchain devlopement</b></p>
 <br>
 
 ## 💻 Languages
@@ -40,7 +40,7 @@ Under construction
   <img alt="php (Don't insult me pls)"src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="Elixir (Currently learning)" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <!--<img src="https://img.shields.io/badge/Solidity-303030?style=for-the-badge&logo=Solidity&logoColor=white">-->
+  <img src="https://img.shields.io/badge/Solidity-303030?style=for-the-badge&logo=Solidity&logoColor=white">
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
 </p>
@@ -56,6 +56,7 @@ Under construction
   <img alt="Kali linux" src ='https://img.shields.io/static/v1?style=for-the-badge&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label='>
   <img alt='GitHub' src='https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label='>
   <img alt='Git' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'> 
+  <img alt='Ethereum' src='https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white'>
   
 </p>
 
