@@ -28,7 +28,7 @@ Under construction
 
 
 <p>a developer and a passionate by cyber security </p>
-<p>Im currently learning <b>Networking</b>, <b>Web Pentesing</b> and <b>Blockchain devlopement</b></p>
+<p>Im currently learning <b>Networking</b>, <b>Web Pentesing</b> and <b>Blockchain developement</b></p>
 <br>
 
 ## 💻 Languages
