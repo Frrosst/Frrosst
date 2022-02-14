@@ -9,7 +9,7 @@ Under construction
 
 
 
-- 🌱 I’m currently learning <img width='15px'  src='https://user-images.githubusercontent.com/69601054/121210976-a75edd00-c86b-11eb-88e3-e2b38f924acc.png'> [Elixir](https://elixir-lang.org/)
+- 🌱 I’m currently learning things
 
 - 📫 How to reach me(I speak <b>ENG</b> and <b>FR</b>): [Discord](https://discord.com/users/730434388533313596) [Twitter](https://twitter.com/Frrost5)
 
@@ -27,8 +27,10 @@ Under construction
 ## Who am i?
 
 
-<p>a developer and a passionate by cyber security </p>
-<p>Im currently learning <b>Networking</b>, <b>Web Pentesing</b> and <b>Blockchain developement</b></p>
+<p>A developer</p>
+<p>A Cyber security enthusiast</p>
+<p>A math enjoyer</p>
+<p>Im currently learning <b>Networking</b> and <b>Web Pentesing</b>
 <br>
 
 ## 💻 Languages
